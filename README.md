@@ -1,7 +1,5 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# Churn Predictions of Bank Customers in Europe
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+This is my first serious repository to document my works or projects.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
-
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+In this project, I used a dummy data about Bank Customers from a Bank which have branches in France, Spain, and Germany. This data contains various information about  
